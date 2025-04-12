@@ -97,3 +97,5 @@ Where:
 - **Damping**: The \(\gamma \dot{\phi}\) term ensures \(w(t)\) stabilizes, producing small oscillations (\(\Delta w < 0.05\)) as a testable prediction.
 
 This derivation grounds the Holosymmetry framework in the principle of least action, making it a candidate for a new paradigm in physics.
+
+📜 License This project is licensed under the MIT License — feel free to use, modify, and expand upon it.
