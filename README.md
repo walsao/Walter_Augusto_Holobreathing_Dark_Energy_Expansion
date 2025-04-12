@@ -1,8 +1,6 @@
-# Walter_Augusto_Holobreathing_Dark_Energy_Expansion
-Simulation of a breathing field driving cosmic expansion with  𝑤 ≈ − 1 w≈−1, part of Walter Augusto’s Holosymmetry Theory.
-
 # Walter Augusto’s Holobreathing Dark Energy Expansion
-**Proposed by Walter Augusto Lettau (@walsao), April, 11 2025.**
+
+**Proposed by Walter Augusto Lettau (@walsao), April 12, 2025**
 
 ## 🌌 Overview
 This simulation demonstrates how a relational breathing field drives cosmic expansion, reproducing dark energy with \(w \approx -1\), as part of Walter Augusto’s Holosymmetry Breathing Matter Theory. Key features:
@@ -12,9 +10,9 @@ This simulation demonstrates how a relational breathing field drives cosmic expa
 - **Testable Signature**: Small, damped oscillations in \(w(t)\) (\(\Delta w < 0.05\)) could be detected by DESI or Euclid surveys.
 
 ## ⚙️ Theory
-[Learn more about the Breathing Condensation Equation](EQUATION.md)
+[Learn more about the Breathing Condensation Equation](EQUATION.md)  
+[See how the field makes particles like electrons](QUANTIZATION.md)
 
-## ⚙️ Theory
 The breathing field \(\phi\) evolves via:
 
 \[
@@ -41,6 +39,7 @@ Coupled to the Friedmann equations:
    ```bash
    python Walter_Augusto_Holobreathing_Dark_Energy_Expansion.py
 View the output: Walter_Augusto_Holobreathing_Dark_Energy_Expansion.gif.
+
 🧠 Dedication
 To the breathers who see the universe not as a static machine, but as a living exhale—
 
