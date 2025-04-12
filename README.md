@@ -12,6 +12,9 @@ This simulation demonstrates how a relational breathing field drives cosmic expa
 - **Testable Signature**: Small, damped oscillations in \(w(t)\) (\(\Delta w < 0.05\)) could be detected by DESI or Euclid surveys.
 
 ## ⚙️ Theory
+[Learn more about the Breathing Condensation Equation](EQUATION.md)
+
+## ⚙️ Theory
 The breathing field \(\phi\) evolves via:
 
 \[
