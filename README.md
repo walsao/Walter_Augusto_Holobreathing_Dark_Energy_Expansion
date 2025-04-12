@@ -1,6 +1,6 @@
 # Walter Augusto’s Holobreathing Dark Energy Expansion
 
-**Proposed, introduced, and authored by Walter Augusto Lettau (@walsao), April 12, 2025**
+**Proposed, introduced, and authored by Walter Augusto Lettau (@walsao), April 12, 2025.**
 
 ## 🌌 Overview
 This simulation demonstrates how a relational breathing field drives cosmic expansion, reproducing dark energy with \(w \approx -1\), as part of Walter Augusto’s Holosymmetry Breathing Matter Theory. Key features:
